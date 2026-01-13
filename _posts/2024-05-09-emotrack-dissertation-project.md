@@ -14,7 +14,7 @@ This project is the culmination of my MEng dissertation at the **University of B
 
 > [View the Full Source Code and Description on GitHub](https://github.com/ruiyongzhang/emotrack)
 
-> [View the User Instruction](/EmoTrack-User-Instructions-2bd2a6e1683c45efa0fd9676fa91eaca?source=copy_link)
+> [View the User Instruction](https://www.notion.so/EmoTrack-User-Instructions-2bd2a6e1683c45efa0fd9676fa91eaca)
 
 > [View the Demo Video on YouTube](https://youtu.be/fgxkX1vDObI)
 
