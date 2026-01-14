@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Wandering on Earth: A Multi-User 3D Environmental Restoration Game"
+title: "Wander on Earth: A Multi-User 3D Environmental Restoration Game"
 date: 2023-05-12
 categories: [Project, Game Dev]
 tags: [Unity, C#, Maya, Multiplayer, URP]
 ---
 
-# Wandering on Earth: Restoring Our Planet in 3D
+# Wander on Earth: Restoring Our Planet in 3D
 
 ![Project Banner](/assets/img/gameProject/game_banner.png)
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "EmoTrack: The Graduate Individual Project"
+title: "EmoTrack: My Graduate Individual Project"
 date: 2024-05-09
 categories: [Project, Research]
 tags: [Flutter, Firebase, HCI, Python]
 ---
 
+# EmoTrack: An application to Facilitate User Reflection on Their Online Behaviours
+<!-- To help people develop skills to engage positively with the online world -->
 
 <!-- ![Project Banner](https://你的图片链接.png)  -->
 
