@@ -108,6 +108,8 @@ social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
+kramdown:
+  math_engine: mathjax
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
@@ -229,3 +231,5 @@ jekyll-archives:
 
 plugins:
   - jekyll-remote-include
+
+head_custom: /_includes/mathjax.html
